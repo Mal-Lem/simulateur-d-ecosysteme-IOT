@@ -1,1 +1,11 @@
 Humidité: 45%
+humidity ID 1: 24.000000
+humidity ID 1: 64.000000
+humidity ID 1: 27.000000
+humidity ID 1: 42.000000
+humidity ID 1: 4.000000
+humidity ID 1: 24.000000
+humidity ID 1: 64.000000
+humidity ID 1: 27.000000
+humidity ID 1: 42.000000
+humidity ID 1: 4.000000

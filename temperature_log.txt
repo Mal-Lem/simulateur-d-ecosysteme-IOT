@@ -1,1 +1,11 @@
 Température: 22°C
+temperature ID 0: 29.000000
+temperature ID 0: 22.000000
+temperature ID 0: 41.000000
+temperature ID 0: 55.000000
+temperature ID 0: 51.000000
+temperature ID 0: 29.000000
+temperature ID 0: 22.000000
+temperature ID 0: 41.000000
+temperature ID 0: 55.000000
+temperature ID 0: 51.000000
